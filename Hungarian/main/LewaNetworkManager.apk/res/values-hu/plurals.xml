@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="day">
+    <item quantity="one">%d nap</item>
+    <item quantity="other">1 nap</item>
+  </plurals>
+  <plurals name="firewall_list_title">
+    <item quantity="one">%d program használ Internetet</item>
+    <item quantity="other">1 program használ Internetet</item>
+  </plurals>
+</resources>
